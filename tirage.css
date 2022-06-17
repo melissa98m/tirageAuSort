@@ -1,0 +1,40 @@
+
+  body {
+      font-family: sans-serif;
+      font-size: 15px;
+      padding: 1em;
+  }
+  .content {
+      margin: 0 auto;
+      width: 500px;
+  }
+  .groups {
+      padding: 1em;
+      margin: 1em 0;
+  }
+  .group {
+      display: inline-block;
+      vertical-align: top;
+      padding: 1em;
+      margin: 10px;
+      width: 140px;
+      border-radius: 10px;
+      background-color: rgba(39, 127, 245, 0.67);
+  }
+  .require{
+      color: red;
+  }
+  .italique{
+      font-size: 12px !important;
+  }
+  .button {
+      border-radius: 15px;
+      padding:10px;
+      background-color: rgba(39, 127, 245, 0.47);
+      border: none;
+  }
+  .input {
+      border-radius: 5px;
+      border: none;
+      background-color: rgba(39, 127, 245, 0.47);
+  }
